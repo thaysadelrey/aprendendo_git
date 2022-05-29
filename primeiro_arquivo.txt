@@ -1,0 +1,3 @@
+O Git é um sistema de código aberto (opensurce) que permite , com o direito autoral, fornecer o  direito de estudar, modificar e distribuir o softwere de graça.
+Usado também para registr o histórico de edições de qualquer tipo de arquivo.
+Comandos: git config, git init, git clone, git commit, git branch,, etc...
